@@ -1,0 +1,14 @@
+{
+  "name": "helpers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "helpers.js",
+  "keywords": [],
+  "author": "Lukix29",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "portscanner": "^2.2.0",
+    "xxhash": "^0.3.0"
+  }
+}
